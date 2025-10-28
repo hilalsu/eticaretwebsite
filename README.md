@@ -103,10 +103,4 @@ DATABASE_URL=
 - Vercel önerilir: Next.js projeleri için hızlı dağıtım.
 - Alternatif: Docker veya Node.js barındırma sağlayıcıları. Build adımı: `npm run build`, ardından `npm run start`.
 
-## Katkıda Bulunma
-- Dal stratejisi: `main` korumalı, özellik geliştirmeleri için `feature/*` dalları önerilir.
-- Commit mesajı önerisi: Conventional Commits (`feat:`, `fix:`, `chore:` vb.).
-
-## Lisans
-Bu proje için lisans bilgisi belirtilmemiştir. Eklemek isterseniz `LICENSE` dosyası oluşturabilirsiniz.
 
