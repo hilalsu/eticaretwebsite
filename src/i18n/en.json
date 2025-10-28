@@ -1,0 +1,22 @@
+{
+  "home": "Home",
+  "about": "About",
+  "contact": "Contact",
+  "blog": "Blog",
+  "faq": "FAQ",
+  "login": "Login",
+  "register": "Register",
+  "profile": "My Profile",
+  "orders": "My Orders",
+  "comments": "My Comments",
+  "admin": "Admin Panel",
+  "user": "User Panel",
+  "store": "Store Panel",
+  "products": "My Products",
+  "articles": "My Articles",
+  "settings": "Settings",
+  "categories": "Categories",
+  "languages": "Languages",
+  "approvals": "Pending Approvals",
+  "notfound": "Page Not Found"
+} 

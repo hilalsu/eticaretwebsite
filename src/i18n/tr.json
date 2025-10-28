@@ -1,0 +1,22 @@
+{
+  "home": "Anasayfa",
+  "about": "Hakkımızda",
+  "contact": "İletişim",
+  "blog": "Blog",
+  "faq": "Sıkça Sorulan Sorular",
+  "login": "Giriş Yap",
+  "register": "Kayıt Ol",
+  "profile": "Profilim",
+  "orders": "Siparişlerim",
+  "comments": "Yorumlarım",
+  "admin": "Admin Paneli",
+  "user": "Kullanıcı Paneli",
+  "store": "Mağaza Paneli",
+  "products": "Ürünlerim",
+  "articles": "Makalelerim",
+  "settings": "Ayarlar",
+  "categories": "Kategoriler",
+  "languages": "Diller",
+  "approvals": "Onay Bekleyenler",
+  "notfound": "Sayfa Bulunamadı"
+} 
